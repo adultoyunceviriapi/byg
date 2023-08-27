@@ -1,1 +1,1 @@
-- Oyun çevirisi
+- Oyun cevirisi
