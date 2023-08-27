@@ -1,2 +1,1 @@
-- Deneme<br>
-- Deneme 2
+- Oyun çevirisi
